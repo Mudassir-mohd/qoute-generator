@@ -1,5 +1,8 @@
 
 body {
+    background-image: url("https://i.pinimg.com/736x/86/73/13/867313b92a7183d1f5726024268a3671.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -10,6 +13,10 @@ body {
 .container {
     text-align: center;
     background: white;
+    /* background-image: url("https://i.pinimg.com/236x/66/93/9b/66939bcc14f5bbd4f3137a3e83ef1d2d.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* color: white; */
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
